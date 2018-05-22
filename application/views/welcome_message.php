@@ -1,20 +1,3 @@
-<?php
-defined('BASEPATH') OR exit('No direct script access allowed');
-?><!DOCTYPE html>
-<html lang="en">
-<head>
-
-	<link rel="stylesheet" href=" <?php echo base_url('vendor/twbs/bootstrap/dist/css/bootstrap.min.css'); ?> ">
-
-	<link rel="stylesheet" href=" <?php echo base_url('public/assets/custom.css'); ?> ">
-	
-	<script src=" <?php echo base_url('vendor/twbs/bootstrap/dist/js/bootstrap.min.js'); ?> "></script>
-	
-	<meta charset="utf-8">
-	<title>Welcome to CodeIgniter</title>
-</head>
-
-<body>
 
 <button type="button" class="btn btn-secondary teste">Secondary</button>
 
@@ -34,6 +17,3 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 	<p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds. <?php echo  (ENVIRONMENT === 'development') ?  'CodeIgniter Version <strong>' . CI_VERSION . '</strong>' : '' ?></p>
 </div>
-
-</body>
-</html>
