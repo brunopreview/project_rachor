@@ -20,7 +20,7 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
 	{
-		// echo Stringy\Stringy::create('teste teste teste')->camelize();
-		$this->load->view('welcome_message');
+		echo Stringy\Stringy::create('teste teste teste')->camelize();
+		// $this->load->view('welcome_message');
 	}
 }
