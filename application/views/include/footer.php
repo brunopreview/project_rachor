@@ -1,6 +1,6 @@
 
-</body>
-<footer>
-	Rachor Ltda
+<footer class="footer">
+	teste
 </footer>
-</html>
+
+</html> <!-- fecha o html aberto no header -->

@@ -1,3 +1,29 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito:300,400,700,800,900");
+/******************* 
+Global Styles 
+*******************/
+body {
+	background: #f1f1f1;
+	font-family: "Nunito", sans-serif;
+	margin: 0;
+	overflow-x: hidden;
+	color: #67757c;
+	font-weight: 300; 
+	height: 100%;
+}
+
+label {
+font-weight: bold
+}
+
+html {
+position: relative;
+min-height: 100%;
+background: #f1f1f1;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale; 
+}
+
 html body .p-0 		{	padding: 0px; }
 html body .p-5 		{	padding: 5px; }
 html body .p-10 	{	padding: 10px; }
@@ -165,3 +191,46 @@ html body .font-4-7em { font-size: 4.7em; }
 html body .font-4-8em { font-size: 4.8em; }
 html body .font-4-9em { font-size: 4.9em; }
 html body .font-5em   { font-size: 5.0em; }
+
+
+.header-custom {
+	padding-bottom: 5px;
+	padding-top: 5px; 
+}
+
+
+.main {
+	position: relative;
+	margin-left: 200px;
+	padding: 20px;
+	background: #f1f1f1;
+	transition: all 0.4s;
+}
+.main.active {
+	position: relative;
+	margin-left: 80px;
+	padding: 20px;
+	background: #f1f1f1;
+}
+
+
+.footer {
+	margin-top: 10px;
+	margin-left: 200px;
+	position: absolute;
+	bottom:0;
+	width:100%;
+	transition: all 0.4s;
+}
+.footer.active {
+	margin-left: 80px;
+}
+
+
+.btn-invisible {
+	background: unset;
+	border: unset;
+}
+.btn-invisible:focus {
+	box-shadow: unset;
+}
