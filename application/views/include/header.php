@@ -5,7 +5,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <head>	
 	<link rel="stylesheet" href=" <?php echo base_url('vendor/twbs/bootstrap/dist/css/bootstrap.min.css'); ?> ">
 	<link rel="stylesheet" href=" <?php echo base_url('public/assets/css/custom.css'); ?> ">
-	<link rel="stylesheet" href=" <?php echo base_url('public/assets/css/sidebar-custom.css'); ?> ">
 	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
 
 	<script src=" <?php echo base_url('vendor/components/jquery/jquery.min.js'); ?> "></script>
@@ -35,7 +34,5 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<button type="button" id="sidebarCollapse" class="btn btn-invisible font-1-5em color-white">
 			<i class="fa fa-bars"></i>
 		</button>
-
-
 	</nav>
 </header>
