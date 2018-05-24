@@ -1,4 +1,4 @@
-<main class="main">
+<div class="main">
 	<div class="card">
 		<div class="card-header">
 			teste
@@ -15,4 +15,4 @@
 			<p>If you are exploring CodeIgniter for the very first time, you should start by reading the <a href="user_guide/">User Guide</a>.</p>
 		</div>
 	</div>
-</main>
+</div>

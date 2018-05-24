@@ -21,7 +21,6 @@ Global Styles
 	--matr-red:    						#c03836;
 }
 
-
 body {
 	background: #f1f1f1;
 	font-family: "Nunito", sans-serif;
@@ -44,58 +43,58 @@ background: #f1f1f1;
 -moz-osx-font-smoothing: grayscale; 
 }
 
-html body .p-0 		{	padding: 0px; }
-html body .p-5 		{	padding: 5px; }
-html body .p-10 	{	padding: 10px; }
-html body .p-15 	{	padding: 15px; }
-html body .p-20 	{	padding: 20px; }
-html body .p-25 	{	padding: 25px; }
-html body .p-30 	{	padding: 30px; }
-html body .p-35 	{	padding: 35px; }
-html body .p-40 	{	padding: 40px; }
-html body .p-l-0 	{	padding-left: 0px; }
-html body .p-l-5 	{	padding-left: 5px; }
-html body .p-l-10 	{	padding-left: 10px; }
-html body .p-l-15 	{	padding-left: 15px; }
-html body .p-l-25 	{	padding-left: 25px; }
-html body .p-l-30 	{	padding-left: 30px; }
-html body .p-l-35 	{	padding-left: 35px; }
-html body .p-l-40 	{	padding-left: 40px; }
-html body .p-r-0 	{	padding-right: 0px; }
-html body .p-r-5 	{	padding-right: 5px; }
-html body .p-r-10 	{	padding-right: 10px; }
-html body .p-r-15 	{	padding-right: 15px; }
-html body .p-r-20 	{	padding-right: 20px; }
-html body .p-r-25 	{	padding-right: 25px; }
-html body .p-r-30 	{	padding-right: 30px; }
-html body .p-r-35 	{	padding-right: 35px; }
-html body .p-r-40 	{	padding-right: 40px; }
+html body .p-0 			{		padding: 0px; }
+html body .p-5 			{		padding: 5px; }
+html body .p-10 		{		padding: 10px; }
+html body .p-15 		{		padding: 15px; }
+html body .p-20 		{		padding: 20px; }
+html body .p-25 		{		padding: 25px; }
+html body .p-30 		{		padding: 30px; }
+html body .p-35 		{		padding: 35px; }
+html body .p-40 		{		padding: 40px; }
+html body .p-l-0 		{		padding-left: 0px; }
+html body .p-l-5 		{		padding-left: 5px; }
+html body .p-l-10 	{		padding-left: 10px; }
+html body .p-l-15 	{		padding-left: 15px; }
+html body .p-l-25 	{		padding-left: 25px; }
+html body .p-l-30 	{		padding-left: 30px; }
+html body .p-l-35 	{		padding-left: 35px; }
+html body .p-l-40 	{		padding-left: 40px; }
+html body .p-r-0 		{		padding-right: 0px; }
+html body .p-r-5 		{		padding-right: 5px; }
+html body .p-r-10 	{		padding-right: 10px; }
+html body .p-r-15 	{		padding-right: 15px; }
+html body .p-r-20 	{		padding-right: 20px; }
+html body .p-r-25 	{		padding-right: 25px; }
+html body .p-r-30 	{		padding-right: 30px; }
+html body .p-r-35 	{		padding-right: 35px; }
+html body .p-r-40 	{		padding-right: 40px; }
 html body .p-t-0    {   padding-top: 0px; }
 html body .p-t-1    {   padding-top: 1px; }
 html body .p-t-2    {   padding-top: 2px; }
 html body .p-t-3    {   padding-top: 3px; }
 html body .p-t-4    {   padding-top: 4px; }
-html body .p-t-5 	{	padding-top: 5px; }
-html body .p-t-10 	{	padding-top: 10px; }
-html body .p-t-15 	{	padding-top: 15px; }
-html body .p-t-20 	{	padding-top: 20px; }
-html body .p-t-25 	{	padding-top: 25px; }
-html body .p-t-30 	{	padding-top: 30px; }
-html body .p-t-35 	{	padding-top: 35px; }
-html body .p-t-40 	{	padding-top: 40px; }
+html body .p-t-5 		{		padding-top: 5px; }
+html body .p-t-10 	{		padding-top: 10px; }
+html body .p-t-15 	{		padding-top: 15px; }
+html body .p-t-20 	{		padding-top: 20px; }
+html body .p-t-25 	{		padding-top: 25px; }
+html body .p-t-30 	{		padding-top: 30px; }
+html body .p-t-35 	{		padding-top: 35px; }
+html body .p-t-40 	{		padding-top: 40px; }
 html body .p-b-0    {   padding-bottom: 0px; }
 html body .p-b-1    {   padding-bottom: 1px; }
 html body .p-b-2    {   padding-bottom: 2px; }
 html body .p-b-3    {   padding-bottom: 3px; }
 html body .p-b-4    {   padding-bottom: 4px; }
-html body .p-b-5 	{	padding-bottom: 5px; }
-html body .p-b-10 	{	padding-bottom: 10px; }
-html body .p-b-15 	{	padding-bottom: 15px; }
-html body .p-b-20 	{	padding-bottom: 20px; }
-html body .p-b-25 	{	padding-bottom: 25px; }
-html body .p-b-30 	{	padding-bottom: 30px; }
-html body .p-b-35 	{	padding-bottom: 35px; }
-html body .p-b-40 	{	padding-bottom: 40px; }
+html body .p-b-5 		{		padding-bottom: 5px; }
+html body .p-b-10 	{		padding-bottom: 10px; }
+html body .p-b-15 	{		padding-bottom: 15px; }
+html body .p-b-20 	{		padding-bottom: 20px; }
+html body .p-b-25 	{		padding-bottom: 25px; }
+html body .p-b-30 	{		padding-bottom: 30px; }
+html body .p-b-35 	{		padding-bottom: 35px; }
+html body .p-b-40 	{		padding-bottom: 40px; }
 
 html body .padding-1 {  padding: 1px; }
 html body .padding-2 {  padding: 2px; }
@@ -106,8 +105,8 @@ html body .padding-5 {  padding: 5px; }
 /*******************
 Margin
 *******************/
-html body .m-0 		{	margin: 0px; }
-html body .m-l-5 	{	margin-left: 5px; }
+html body .m-0 			{	margin: 0px; }
+html body .m-l-5 		{	margin-left: 5px; }
 html body .m-l-10 	{	margin-left: 10px; }
 html body .m-l-15 	{	margin-left: 15px; }
 html body .m-l-20 	{	margin-left: 20px; }
@@ -115,7 +114,7 @@ html body .m-l-25 	{	margin-left: 25px; }
 html body .m-l-30 	{	margin-left: 30px; }
 html body .m-l-35 	{	margin-left: 35px; }
 html body .m-l-40 	{	margin-left: 40px; }
-html body .m-r-5 	{	margin-right: 5px; }
+html body .m-r-5 		{	margin-right: 5px; }
 html body .m-r-10 	{	margin-right: 10px; }
 html body .m-r-15 	{	margin-right: 15px; }
 html body .m-r-20 	{	margin-right: 20px; }
@@ -123,8 +122,8 @@ html body .m-r-25 	{	margin-right: 25px; }
 html body .m-r-30 	{	margin-right: 30px; }
 html body .m-r-35 	{	margin-right: 35px; }
 html body .m-r-40 	{	margin-right: 40px; }
-html body .m-t-0 	{	margin-top: 0px; }
-html body .m-t-5 	{	margin-top: 5px; }
+html body .m-t-0 		{	margin-top: 0px; }
+html body .m-t-5 		{	margin-top: 5px; }
 html body .m-t-10 	{	margin-top: 10px; }
 html body .m-t-15 	{	margin-top: 15px; }
 html body .m-t-20 	{	margin-top: 20px; }
@@ -132,8 +131,8 @@ html body .m-t-25 	{	margin-top: 25px; }
 html body .m-t-30 	{	margin-top: 30px; }
 html body .m-t-35 	{	margin-top: 35px; }
 html body .m-t-40 	{	margin-top: 40px; }
-html body .m-b-0 	{	margin-bottom: 0px; }
-html body .m-b-5 	{	margin-bottom: 5px; }
+html body .m-b-0 		{	margin-bottom: 0px; }
+html body .m-b-5 		{	margin-bottom: 5px; }
 html body .m-b-10 	{	margin-bottom: 10px; }
 html body .m-b-15 	{	margin-bottom: 15px; }
 html body .m-b-20 	{	margin-bottom: 20px; }
@@ -218,7 +217,6 @@ html body .font-5em   { font-size: 5.0em; }
 	padding-top: 5px; 
 }
 
-
 .main {
 	position: relative;
 	margin-left: 200px;
@@ -226,12 +224,23 @@ html body .font-5em   { font-size: 5.0em; }
 	background: #f1f1f1;
 	transition: all 0.4s;
 }
+
 .main.active {
 	position: relative;
 	margin-left: 80px;
 	padding: 20px;
 	background: #f1f1f1;
 }
+
+@media (max-width: 770px) {
+	.main {
+		position: relative;
+		margin-left: 80px;
+		padding: 20px;
+		background: #f1f1f1;	
+	}
+}
+
 
 
 .footer {
@@ -241,25 +250,21 @@ html body .font-5em   { font-size: 5.0em; }
 	bottom:0;
 	width:100%;
 	transition: all 0.4s;
+	background: #164858
 }
+
 .footer.active {
 	margin-left: 80px;
 }
-
 
 .btn-invisible {
 	background: unset;
 	border: unset;
 }
+
 .btn-invisible:focus {
 	box-shadow: unset;
 }
-
-
-
-
-
-
 
 .card-header {
 	background: #fff;
@@ -475,13 +480,6 @@ Background Colors custom
 .bg-dark-verde 		{	background-color: var(--matr-verde-dark) 		!important; }
 .bg-white-verde 	{	background-color: var(--matr-verde-white) 	!important; }
 
-.floating-phone {
-    position: absolute;
-    top: 50%;
-    right: 15px;
-    transform: translatey(-50%);
-}
-
 .color-verde{
 	color: var(--matr-verde-primary);
 }
@@ -503,7 +501,6 @@ table layout style custom
 	font-weight: 700;
 	border-top: 1px solid #ddd;
 }
-
 
 .better-table.better-table-bordered>thead>tr>th:first-child {
   border-left: 1px solid #ddd;
@@ -542,7 +539,7 @@ table layout style custom
 table colors and layout style custom
 **********/
 .better-table.better-table-primary>thead>tr>th {
-  background-color: var(--matr-blue-primary);
+  background: var(--matr-blue-primary);
 	border-top: 1px solid var(--matr-blue-primary);
 	border-bottom: 1px solid var(--matr-blue-primary);
 }
