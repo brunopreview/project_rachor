@@ -13,7 +13,8 @@
 	"require": {
 		"php": ">=5.3.7",
 		"twbs/bootstrap": "4.1.0",
-		"components/jquery": "^3.3"
+		"components/jquery": "^3.3",
+		"axios/xhprof-composer": "^0.1.0"
 	},
 	"suggest": {
 		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
