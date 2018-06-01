@@ -11,4 +11,12 @@ class Welcome extends CI_Controller {
 		$this->load->view('welcome_message');
 		$this->load->view('include/footer');
 	}
+
+	public function teste()
+	{
+		$dados = $this->input->post('teste');
+		echo $dados;
+	}
+
+	
 }

@@ -6,7 +6,8 @@
 		<div class="card-body">
 
 			<button class="btn btn-primary" id="teste"> teste </button>
-			
+
+			<p><?php echo $dados; ?></p>	
 				
 			<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
 
@@ -62,19 +63,3 @@
 		</div>
 	</div>
 </div>
-
-<script>
-	import axios from 'axios'
-
-	let valor = "teste=teste"
-
-	$('#teste').click(function() {
-	axios.post(
-		'teste',{
-		teste: 'teste'
-		});			
-	});
-
-	
-
-</script>
